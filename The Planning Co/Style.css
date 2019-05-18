@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+
+.btn-more{
+    background-color: white;
+    border:0.25px solid purple;
+    color:purple;
+    padding: 5px;
+}
+
+header{
+    background-image: url("Imagenes/foto inicio.jpg") ;
+    width: 1349px;
+    height: 720px;
+}
+
+.logo{
+    width:220px;
+    height:150px;
+    padding-left: 5%;
+}
+.menu{
+    float: right;
+    display: block;
+    padding-right: 5%;
+}
+.btn-menu{
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin: 15px;
+    font-size: 20px;
+    padding-top: 4%;
+}
+.lema{
+    text-align: center;
+    color: white;
+    padding-top:200px; 
+    font-size: 40px;
+}
