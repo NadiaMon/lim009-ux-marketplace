@@ -1,9 +1,10 @@
 <center>
 
- # **PROYECTO: MARKETPLACE**
 ![Inicio](ThePlanningCo/Imagenes/imagen1.png)
 
 </center>
+
+ # **PROYECTO: MARKETPLACE**
 
 ## Datos de la empresa
 
@@ -80,6 +81,18 @@ Un primer paso fue acordar una entrevista con Estrella Carbone, para conversar s
 
 ## 2. Benchmark
 
+En el siguiente cuadro se observa a 7 empresas (The Planning Co y 6 Empresas de la competencia), las cuales fueron seleccionadas de acuerdo a las características y al rubro elegido.
+La finalidad del benchmark, era ver cómo empresas del mismo rubro mostraban sus servicios, cuáles eran sus puntos fuertes y que era lo que diferenciaba a cada una. 
+
+### Conclusiones:
+
+* Sólo 4 de 7 páginas cuentan con una web propia, todas tienen redes sociales
+* Solo dos empresas realizan todo tipo de eventos, las demás sólo son para matrimonios.
+* Es importante tener una galería que  muestre el trabajo realizado, la calidad de las fotos es necesaria.
+* No todas las que cuentan con página web propia muestran los testimonios de sus usuarios.
+* Los medios de contacto suelen ser por inbox, correo electrónico y whatsapp.
+* No se habla sobre los medios de pago.
+
 [Cuadro de benchmark](https://docs.google.com/document/d/1w6b31SlVHk4gDb-FgCNkttX6m84rWFNfvgQlNgFt28c/edit?usp=sharing)
 
 ## 3. Entrevista con usuarios o posibles usuarios
@@ -97,6 +110,8 @@ Realizamos entrevistas a usuarios de The Planning Co, a usuarios de otras empres
 * Usuarios necesitan investigar el servicio que contratan, por eso recurren a sus redes sociales o a su página web.
 * Valoran ver los trabajos previos y leer sobre las experiencias de otros usuarios.
 * Buscan respuestas rápidas y que el trato sea amable.
+* Buscan el servicio integral, esto quiere decir que una persona puedan encargarse de muchas cosas.
+* Buscan opciones de pago.
 
 *** 
 ## **II. Síntesis y Definición**
@@ -115,11 +130,23 @@ Luego de realizar las entrevistas, procedemos a elaborar el affinity map con la 
 
 [Conclusiones de cada grupo](https://docs.google.com/document/d/1I-827wTCDihv86KVXPfuZX7o0oDNL_amCQqDM9l9INI/edit?usp=sharing)
 
-Realizamos 6 entrevistas en total, de las cuales 2 fueron a usuarios de The Planning Co, 3 usuarios de la competencia y 1 a una posible usuaria.
+Realizamos 6 entrevistas en total, de las cuales 2 fueron a usuarios de The Planning Co, 3 usuarios de la competencia y 1 a una posible usuaria. Una vez terminadas las entrevistas, analizamos los resultados y los dividimos en 12 grupos, los cuales son:
+
+| Grupo 1 | Grupo 2 | Grupo 3 |
+| ------ |---------| ------|
+| Cómo se entero  | Lugar  | Valoración    |
+| Información previa  | Temática   | Pagos   |
+| Primer contacto | Centralizar | Fallas|
+| Frecuencia de comunicación | Detalles | Volverías a contratar  |
 
 ### Principales conclusiones:
 
-
+* Son importantes las reuniones presenciales, para ver el interés y la confianza.
+* Es importante alguien que te oriente con el concepto y la temática del evento. 
+* Es importante ver fotos de eventos previos y leer sobre experiencias de otros usuarios.
+* Que sea puntualidad es importante.
+* Valoran que se respete el presupuesto y se den opciones para pagos.
+* Se valoran respuestas rápidas y personalizadas.
 
 ## 2. User Persona
 
@@ -132,6 +159,8 @@ Con las entrevistas y la elaboración del affinity map, creamos una user persona
 </center>
 
 ## 3. Customer Journey Map
+
+Esta herramienta nos sirvió para identificar y solucionar los puntos relevantes del viaje del usuario. Los puntos a enfocarnos son: la búsqueda de información, la comunicación entre el cliente y la empresa, los medios de pago y el servicio personalizado.
 
 <center>
 
@@ -203,5 +232,66 @@ Para poder realizar el Prototipo de Alta Fidelidad se realizó el Benchmark de l
 ![Silvana Paz](https://user-images.githubusercontent.com/47750982/58044266-f579da00-7b04-11e9-8bb6-67cdd03ff70c.jpg)
 
 ## 4. User Testing
+[Fotos del proceso completo](https://drive.google.com/drive/folders/10AgZ87DC-vuyjIpSQzGj0HfnJBuBf8Dg?usp=sharing)
+
+## 4. Problem Statements
+
+### **<center>{Persona} necesita una manera {necesidad}, porque/para {insight}.</center>**
+
+* Fernanda, quien está a punto de casarse, necesita conocer el trabajo de la organizadora de eventos para poder confiar en su trabajo.
+
+* Fernanda necesita de alguien que se encargue de la organización integral del evento para que ella pueda disfrutar de ese día especial. 
+
+* Fernanda necesita conversar sobre sus ideas con la organizadora para poder decidir si trabaja con ella.
+
+* Fernanda necesita respuestas rápidas sobre los detalles de su evento  para tomar decisiones rápidas y acertadas.
+
+## 5. How Might We
+
+**Fernanda, quien está a punto de casarse, necesita conocer el trabajo de la organizadora de eventos para poder confiar en su trabajo.**
+
+* ¿HMW hacer que la organizadora muestre su servicio?
+
+* ¿HMW transformar la desconfianza en curiosidad?
+
+* ¿HMW aminorar las dudas de Fernanda?
+
+**Fernanda necesita de alguien que se encargue de la organización integral del evento para que ella pueda disfrutar de ese día especial.** 
+
+* ¿HMW hacer que la experiencia del evento sea buena?
+
+* ¿HMW ayudar a Fernanda a estar segura que su evento se desarrollará sin contratiempos?
+
+* ¿HMW incluir una sensación de seguridad en el evento?
+
+* ¿HMW tener bajo control los acontecimientos que puedan suceder en el evento?
+
+**Fernanda necesita conversar sobre sus ideas con la organizadora para poder decidir si trabaja con ella.**
+
+* ¿HMW hacer que Fernanda se comunique con la organizadora de eventos?
+
+* ¿HMW hacer que Fernanda comunique sus necesidades?
+
+**Fernanda necesita respuestas rápidas sobre los detalles de su evento  para tomar decisiones rápidas y acertadas.**
+
+* ¿HMW hacer que la espera sea la parte más emocionante del evento?
+
+* ¿HMW hacer que la espera no sea estresante?
+
+* ¿HMW hacer que Fernanda tenga los detalles del evento en corto tiempo?
+
+[Problem statements & HMW](https://docs.google.com/document/d/1003DVb0eyXucUHII78r4KYoLY84m63IzVX1d27HTlp8/edit?usp=sharing)
+
+***
+
+
+
+
+
+
+
+
+
+
 
 
