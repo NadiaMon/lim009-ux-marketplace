@@ -138,3 +138,70 @@ Con las entrevistas y la elaboración del affinity map, creamos una user persona
 ![Customer Journey Map](ThePlanningCo/Imagenes/customerjourneymap.jpg)
 
 </center>
+
+***
+## **III. Ideación**
+
+## 1. Sketches
+
+Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimiento e Implementación** y en **Síntesis y Definición** y así entender que es lo que necesita el usuario.
+
+**INICIO**
+
+![Inicio-1](https://user-images.githubusercontent.com/47750982/58042600-bf3a5b80-7b00-11e9-9ce9-eab7cc412369.jpg)
+
+![Inicio-2-1](https://user-images.githubusercontent.com/47750982/58042666-e729bf00-7b00-11e9-8603-3ea7dc9f1d0f.jpg)
+
+**NOSOTROS**
+
+![Nosotros-1](https://user-images.githubusercontent.com/47750982/58042703-fd377f80-7b00-11e9-9bf3-10facdab2a8d.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios-1](https://user-images.githubusercontent.com/47750982/58042760-1dffd500-7b01-11e9-98cb-0885290750db.jpg)
+
+![Nuestros Servicios-2-1](https://user-images.githubusercontent.com/47750982/58042788-3a9c0d00-7b01-11e9-8201-5d55469bb49b.jpg)
+
+**GALERIA**
+
+![Galería-1](https://user-images.githubusercontent.com/47750982/58042849-5a333580-7b01-11e9-8482-7a0ab57b4498.jpg)
+
+**TESTIMONIOS**
+
+![Testimonios-1](https://user-images.githubusercontent.com/47750982/58042882-6cad6f00-7b01-11e9-91c4-8a238a368f96.jpg)
+
+![Testimonios-2-1](https://user-images.githubusercontent.com/47750982/58042908-7c2cb800-7b01-11e9-992a-019ae7e0ebd5.jpg)
+
+**CONTACTO**
+
+![Contacto-1](https://user-images.githubusercontent.com/47750982/58042954-99fa1d00-7b01-11e9-9cf9-267cb5938c0a.jpg)
+
+![Contacto-2-1](https://user-images.githubusercontent.com/47750982/58042974-ad0ced00-7b01-11e9-8edd-5c7c4df3ac51.jpg)
+
+## 2. User Flow
+
+![User Flow](https://user-images.githubusercontent.com/47750982/58043347-8a2f0880-7b02-11e9-86c5-06dd6d18f642.png)
+
+## 3. Benchmark & Referencias
+
+Para poder realizar el Prototipo de Alta Fidelidad se realizó el Benchmark de las páginas web del rubro de las empresas que se dedican a la Organización de Eventos, las cuales se muestran a continuación:
+
+**D ANDRE**
+
+![D Andre](https://user-images.githubusercontent.com/47750982/58044093-88664480-7b04-11e9-9912-db9dca40bc5a.jpg)
+
+**BACKYARD**
+
+![Backyard](https://user-images.githubusercontent.com/47750982/58043957-31f90600-7b04-11e9-9dd7-8366ac43b7ec.jpg)
+
+**ERIKA FERNANDEZ**
+
+![Erika Fernandez](https://user-images.githubusercontent.com/47750982/58044183-c8c5c280-7b04-11e9-94dd-c4c8b03be10e.jpg)
+
+**SILVANA PAZ**
+
+![Silvana Paz](https://user-images.githubusercontent.com/47750982/58044266-f579da00-7b04-11e9-8bb6-67cdd03ff70c.jpg)
+
+## 4. User Testing
+
+
