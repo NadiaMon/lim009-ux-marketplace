@@ -53,7 +53,7 @@ TOTAL | | 290 |
 
 ## 1. Entrevista con la fundadora
 
-Un primer paso fue acordar una entrevista con Estrella Carbone, para conversar sobre su emprendimiento, sus motivaciones, las dificultades que tuvo, entre más cosas que puedan ser de utilidad para nuestra investigación. 
+El primer paso fue acordar una entrevista con Estrella Carbone, para poder conversar sobre su emprendimiento, sus motivaciones, las dificultades que tuvo, entre más cosas que puedan ser de utilidad para nuestra investigación. 
 
 ### Documentación:
 
@@ -67,11 +67,11 @@ Un primer paso fue acordar una entrevista con Estrella Carbone, para conversar s
 * Es importante para la fundadora trabajar de la mano con los clientes en la elaboración de una temática propia para su evento.
 * Actualmente trabaja solo con una persona, por lo que necesitan organizarse mejor. 
 * Hay mucha competencia en el rubro, por lo que tiene que destacarse de las demás empresas.
-* Algunos clientes solicitan respuestan rápidas cuando preguntan por los servicios, porque al ser eventos personalizacidos la elaboración de presupuestos toma mucho tiempo. 
+* Algunos clientes solicitan respuestan rápidas cuando preguntan por los servicios, porque al ser eventos personalizados la elaboración de presupuestos toma mucho tiempo. 
 * Si bien ofrece la organización de eventos sociales y eventos corporativos, el servicio que más demanda tiene es la organización de matrimonios. 
 * Todavía no cuenta con página web, siendo las redes sociales los medios principales de comunicación.
 
-### Puntos fuertes que encontramos:
+### Puntos a favor de The Planning Co:
 
 * Nivel de personalización, se destaca la frase "Todo evento se puede personalizar".
 * Compromiso y responsabilidad con cada evento que se realiza.
@@ -83,6 +83,8 @@ Un primer paso fue acordar una entrevista con Estrella Carbone, para conversar s
 
 En el siguiente cuadro se observa a 7 empresas (The Planning Co y 6 Empresas de la competencia), las cuales fueron seleccionadas de acuerdo a las características y al rubro elegido.
 La finalidad del benchmark, era ver cómo empresas del mismo rubro mostraban sus servicios, cuáles eran sus puntos fuertes y que era lo que diferenciaba a cada una. 
+
+![Benchmarking](https://user-images.githubusercontent.com/47750982/58150158-63b8bc80-7c2b-11e9-8f17-a35e7440c53e.jpg)
 
 ### Conclusiones:
 
@@ -168,9 +170,12 @@ Esta herramienta nos sirvió para identificar y solucionar los puntos relevantes
 
 </center>
 
-[Fotos del proceso completo](https://drive.google.com/drive/folders/10AgZ87DC-vuyjIpSQzGj0HfnJBuBf8Dg?usp=sharing)
+[Proceso del Customer Journey Map](https://drive.google.com/open?id=13whu8XL7CGXEO2hLvr0Ose10GZl_KkQF)
+
 
 ## 4. Problem Statements
+
+Se obtuvo 7 **Problem Statements** de los cuales se priorizó 4, los cuáles son lo siguientes:
 
 ### **<center>{Persona} necesita una manera {necesidad}, porque/para {insight}.</center>**
 
@@ -182,7 +187,11 @@ Esta herramienta nos sirvió para identificar y solucionar los puntos relevantes
 
 * Fernanda necesita respuestas rápidas sobre los detalles de su evento  para tomar decisiones rápidas y acertadas.
 
+[Problem Statements](https://drive.google.com/open?id=1x6rY_HRmdDT1KYEqgKB0BK9pd0CWBvzZ)
+
 ## 5. How Might We
+
+Una vez obtenido los **Problem Statements** se pasó a realizar los **How Might We** de cada uno de ellos.
 
 **Fernanda, quien está a punto de casarse, necesita conocer el trabajo de la organizadora de eventos para poder confiar en su trabajo.**
 
@@ -220,11 +229,201 @@ Esta herramienta nos sirvió para identificar y solucionar los puntos relevantes
 
 ***
 
+## **III. Ideación**
 
+## 1. Benchmark & Referencias
 
+Para poder empezar a construir los **Sketches**, se realizó el Benchmark de las páginas web del rubro de las empresas que se dedican a la Organización de Eventos, las cuales se muestran a continuación:
 
+<center>
+**D ANDRE**
 
+![D Andre](https://user-images.githubusercontent.com/47750982/58044093-88664480-7b04-11e9-9912-db9dca40bc5a.jpg)
+</center>
+<center>
+**BACKYARD**
 
+![Backyard](https://user-images.githubusercontent.com/47750982/58043957-31f90600-7b04-11e9-9dd7-8366ac43b7ec.jpg)
+</center>
+<center>
+**ERIKA FERNANDEZ**
+
+![Erika Fernandez](https://user-images.githubusercontent.com/47750982/58044183-c8c5c280-7b04-11e9-94dd-c4c8b03be10e.jpg)
+</center>
+<center>
+**SILVANA PAZ**
+
+![Silvana Paz](https://user-images.githubusercontent.com/47750982/58044266-f579da00-7b04-11e9-8bb6-67cdd03ff70c.jpg)
+</center>
+
+[Benchmarking & Referencias](https://drive.google.com/open?id=1JH9e-BA2qoxe_kWMc0mhWI1pwa-d8Tpn)
+
+## 2. Mapa de Sitio
+
+Una vez realizado el **Benchmarking** de las empresas que tienen una página web, se pasó a realizar el **Mapa de Sitio**, ya que es muy importante para conocer que deberíamos de considerar al momento de realizar los **Sketches**.
+
+![The Planning Co  (1ra versión)](https://user-images.githubusercontent.com/47750982/58152227-9e255800-7c31-11e9-813c-9f9fb7974350.png)
+
+## 3. Crazy 8s
+
+Esta herramienta se realizó para ver las posibilidades que se tiene para armar el contenido de todos los **Sketches**
+
+**INICIO**
+
+![Inicio](https://user-images.githubusercontent.com/47750982/58154282-de3b0980-7c36-11e9-9faa-2a63392e7059.jpg)
+
+**NOSOTROS**
+
+![Nosotros](https://user-images.githubusercontent.com/47750982/58154360-12aec580-7c37-11e9-9f8c-a7ccbabd0798.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios](https://user-images.githubusercontent.com/47750982/58154467-4ab60880-7c37-11e9-8f29-dc60f2b700f4.jpg)
+
+**GALERIA**
+
+![Galería](https://user-images.githubusercontent.com/47750982/58154548-7d600100-7c37-11e9-988b-6cd017993052.jpg)
+
+**TESTIMONIOS**
+
+![Testimonios](https://user-images.githubusercontent.com/47750982/58154616-a7192800-7c37-11e9-82f5-cce6a1a3d1de.jpg)
+
+**CONTACTO**
+
+![Contacto](https://user-images.githubusercontent.com/47750982/58154678-d0d24f00-7c37-11e9-8c55-5c534ca09260.jpg)
+
+[Crazy 8s](https://drive.google.com/open?id=1WlARFikQdAN5YS2azj8N_1EC8pc7WGI4)
+
+## 4. Sketches
+
+Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimiento e Implementación** y en **Síntesis y Definición** y así entender que es lo que necesita el usuario.
+
+**INICIO**
+
+![Inicio-1](https://user-images.githubusercontent.com/47750982/58042600-bf3a5b80-7b00-11e9-9ce9-eab7cc412369.jpg)
+
+![Inicio-2-1](https://user-images.githubusercontent.com/47750982/58042666-e729bf00-7b00-11e9-8603-3ea7dc9f1d0f.jpg)
+
+**NOSOTROS**
+
+![Nosotros-1](https://user-images.githubusercontent.com/47750982/58042703-fd377f80-7b00-11e9-9bf3-10facdab2a8d.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios-1](https://user-images.githubusercontent.com/47750982/58042760-1dffd500-7b01-11e9-98cb-0885290750db.jpg)
+
+![Nuestros Servicios-2-1](https://user-images.githubusercontent.com/47750982/58042788-3a9c0d00-7b01-11e9-8201-5d55469bb49b.jpg)
+
+**GALERIA**
+
+![Galería-1](https://user-images.githubusercontent.com/47750982/58042849-5a333580-7b01-11e9-8482-7a0ab57b4498.jpg)
+
+**TESTIMONIOS**
+
+![Testimonios-1](https://user-images.githubusercontent.com/47750982/58042882-6cad6f00-7b01-11e9-91c4-8a238a368f96.jpg)
+
+![Testimonios-2-1](https://user-images.githubusercontent.com/47750982/58042908-7c2cb800-7b01-11e9-992a-019ae7e0ebd5.jpg)
+
+**CONTACTO**
+
+![Contacto-1](https://user-images.githubusercontent.com/47750982/58042954-99fa1d00-7b01-11e9-9cf9-267cb5938c0a.jpg)
+
+![Contacto-2-1](https://user-images.githubusercontent.com/47750982/58042974-ad0ced00-7b01-11e9-8edd-5c7c4df3ac51.jpg)
+
+[Sketches](https://drive.google.com/open?id=1FiIxe95MT1AkO0ylSwkBdG1_sPZ2GlMJ)
+
+## 5. User Flow
+
+Se realizó el User Flow para observar cuáles son las posibles interacciones que se generan entre los **Sketches** y el usuario.
+
+![User Flow](https://user-images.githubusercontent.com/47750982/58043347-8a2f0880-7b02-11e9-86c5-06dd6d18f642.png)
+
+## 6. User Testing
+
+Se realizó 3 testeos de los **Sketches**, 1 posible usuaria y 2 usuarias de la competencia. Llegando a las siguientes conclusiones:
+
+* En la pantalla de Nuestros Servicios, los íconos que se encuentran arriba de cada imagen ahora pasarán al costado en forma de una lista.
+* La pantalla de Testimonios, mostrará los comentarios de los 3 rubros que son: Matrimonios, Sociales y Corporativos; y no todo unido como en el Sketch presentado.
+
+**INICIO**
+
+![Inicio-2-1](https://user-images.githubusercontent.com/47750982/58042666-e729bf00-7b00-11e9-8603-3ea7dc9f1d0f.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios-2-1](https://user-images.githubusercontent.com/47750982/58042788-3a9c0d00-7b01-11e9-8201-5d55469bb49b.jpg)
+
+**TESTIMONIOS**
+
+![Testimonios-2-1](https://user-images.githubusercontent.com/47750982/58042908-7c2cb800-7b01-11e9-992a-019ae7e0ebd5.jpg)
+
+**CONTACTO**
+
+![Contacto-2-1](https://user-images.githubusercontent.com/47750982/58042974-ad0ced00-7b01-11e9-8edd-5c7c4df3ac51.jpg)
+
+[User Testing (Entrevistas - Tareas)](https://drive.google.com/open?id=1laXUpH4CMEJEjGm_o004WsutWRitueOE)
+
+[Sketches - Propuesta de Cambio](https://drive.google.com/open?id=1agobG_kLI1AAwYC_4wB-iEVwF1xrGLJf)
+
+## 7. Prototipo de Media Fidelidad
+
+Al concluir con el **User Testing** de los **Sketches**, pasamos a realizar el **Prototipo de Media Fidelidad** con las sugerencias que nos dieron los usuarios.
+
+**INICIO**
+
+![Inicio](https://user-images.githubusercontent.com/47750982/58156840-ad5dd300-7c3c-11e9-9885-0e609a0b3bf6.png)
+
+**NOSOTROS**
+
+![Nosotros](https://user-images.githubusercontent.com/47750982/58156939-e1d18f00-7c3c-11e9-8c48-b9542388307a.png)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros_Servicios](https://user-images.githubusercontent.com/47750982/58157351-b9966000-7c3d-11e9-85b2-69d02747b923.png)
+
+**GALERIA**
+
+![Galería](https://user-images.githubusercontent.com/47750982/58157397-d7fc5b80-7c3d-11e9-8fa3-9497d1521e55.png)
+
+**TESTIMONIOS**
+
+![Testimonios](https://user-images.githubusercontent.com/47750982/58157457-f3fffd00-7c3d-11e9-8dcf-ce6f907a131d.png)
+
+**CONTACTO**
+
+![Contacto](https://user-images.githubusercontent.com/47750982/58157494-067a3680-7c3e-11e9-9881-5978ce6ff053.png)
+
+[Prototipo de Media Fidelidad](https://marvelapp.com/3iff6d0/screen/56904038)
+
+## 8. User Testing - Prototipo de Media Fidelidad
+
+Se realizó 5 testeos del **Prototipo de Media Fidelidad**, 3 posibles usuarias y 2 usuarias de la competencia. Llegando a las siguientes conclusiones:
+
+* En la página de Inicio, en la sección de Nuestros Servicios agregar un botón que te dirija a esa página.
+* En la página de Nosotros debería tener la opción de ir a Contacto.
+* Reducir los pasos en la página de Contacto.
+
+[User Testing - Prototipo de Media Fidelidad (Entrevistas - Tareas)](https://drive.google.com/open?id=1vsJBtaQRt8pEoHVoYb4KGcLCalaztESP)
+
+***
+
+## **IV. Prototipado**
+
+***
+
+## **V. User Testing**
+
+***
+
+## **VI. Conclusiones**
+
+***
+
+## **VII. Video en Loom**
+
+Link del Drive
+
+Link de Zeplin
 
 
 
