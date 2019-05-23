@@ -409,6 +409,12 @@ Se realizó 5 testeos del **Prototipo de Media Fidelidad**, 3 posibles usuarias 
 
 ## **IV. Prototipado**
 
+## 1. Prototipo Alta Fidelidad
+
+Luego de plantear e iterar los prototipos de baja y media fidelidad, definimos nuestro prototipo de alta. Al elaborarlo decidimos qué colores usar, las tipografías, iconos y otros elementos visuales que mantendrían la identidad de The Planning Co. y fortalecerían su imagen frente al público.
+
+[Prototipo de Alta Fidelidad](https://marvelapp.com/bgh8e07/screen/57012457)
+
 ***
 
 ## **V. User Testing**
@@ -417,13 +423,17 @@ Se realizó 5 testeos del **Prototipo de Media Fidelidad**, 3 posibles usuarias 
 
 ## **VI. Conclusiones**
 
+
+
 ***
 
-## **VII. Video en Loom**
+## **VII. Documentación extra**
 
-Link del Drive
+[Link de video en LOOM]()
 
-Link de Zeplin
+[Link carpeta de trabajo en Drive](https://drive.google.com/drive/folders/1nzr4TB5-zIKcnTcLqft7vHeyXYVZrWRA?usp=sharing)
+
+[Link de prototipo en Zeplin](zpl.io/aX3dm8K)
 
 
 
