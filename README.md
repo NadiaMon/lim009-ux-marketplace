@@ -235,26 +235,21 @@ Una vez obtenido los **Problem Statements** se pasó a realizar los **How Might 
 
 Para poder empezar a construir los **Sketches**, se realizó el Benchmark de las páginas web del rubro de las empresas que se dedican a la Organización de Eventos, las cuales se muestran a continuación:
 
-<center>
 **D ANDRE**
 
 ![D Andre](https://user-images.githubusercontent.com/47750982/58044093-88664480-7b04-11e9-9912-db9dca40bc5a.jpg)
-</center>
-<center>
+
 **BACKYARD**
 
 ![Backyard](https://user-images.githubusercontent.com/47750982/58043957-31f90600-7b04-11e9-9dd7-8366ac43b7ec.jpg)
-</center>
-<center>
+
 **ERIKA FERNANDEZ**
 
 ![Erika Fernandez](https://user-images.githubusercontent.com/47750982/58044183-c8c5c280-7b04-11e9-94dd-c4c8b03be10e.jpg)
-</center>
-<center>
+
 **SILVANA PAZ**
 
 ![Silvana Paz](https://user-images.githubusercontent.com/47750982/58044266-f579da00-7b04-11e9-8bb6-67cdd03ff70c.jpg)
-</center>
 
 [Benchmarking & Referencias](https://drive.google.com/open?id=1JH9e-BA2qoxe_kWMc0mhWI1pwa-d8Tpn)
 
@@ -302,8 +297,6 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 
 ![Inicio-1](https://user-images.githubusercontent.com/47750982/58042600-bf3a5b80-7b00-11e9-9ce9-eab7cc412369.jpg)
 
-![Inicio-2-1](https://user-images.githubusercontent.com/47750982/58042666-e729bf00-7b00-11e9-8603-3ea7dc9f1d0f.jpg)
-
 **NOSOTROS**
 
 ![Nosotros-1](https://user-images.githubusercontent.com/47750982/58042703-fd377f80-7b00-11e9-9bf3-10facdab2a8d.jpg)
@@ -311,8 +304,6 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 **NUESTROS SERVICIOS**
 
 ![Nuestros Servicios-1](https://user-images.githubusercontent.com/47750982/58042760-1dffd500-7b01-11e9-98cb-0885290750db.jpg)
-
-![Nuestros Servicios-2-1](https://user-images.githubusercontent.com/47750982/58042788-3a9c0d00-7b01-11e9-8201-5d55469bb49b.jpg)
 
 **GALERIA**
 
@@ -322,13 +313,9 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 
 ![Testimonios-1](https://user-images.githubusercontent.com/47750982/58042882-6cad6f00-7b01-11e9-91c4-8a238a368f96.jpg)
 
-![Testimonios-2-1](https://user-images.githubusercontent.com/47750982/58042908-7c2cb800-7b01-11e9-992a-019ae7e0ebd5.jpg)
-
 **CONTACTO**
 
 ![Contacto-1](https://user-images.githubusercontent.com/47750982/58042954-99fa1d00-7b01-11e9-9cf9-267cb5938c0a.jpg)
-
-![Contacto-2-1](https://user-images.githubusercontent.com/47750982/58042974-ad0ced00-7b01-11e9-8edd-5c7c4df3ac51.jpg)
 
 [Sketches](https://drive.google.com/open?id=1FiIxe95MT1AkO0ylSwkBdG1_sPZ2GlMJ)
 
@@ -413,17 +400,66 @@ Se realizó 5 testeos del **Prototipo de Media Fidelidad**, 3 posibles usuarias 
 
 Luego de plantear e iterar los prototipos de baja y media fidelidad, definimos nuestro prototipo de alta. Al elaborarlo decidimos qué colores usar, las tipografías, iconos y otros elementos visuales que mantendrían la identidad de The Planning Co. y fortalecerían su imagen frente al público.
 
+**INICIO**
+
+![Inicio (1)](https://user-images.githubusercontent.com/47750982/58269392-12085300-7d4d-11e9-88e1-cadd0ef5fdf1.jpg)
+
+**NOSOTROS**
+
+![Nosotros](https://user-images.githubusercontent.com/47750982/58269469-424ff180-7d4d-11e9-9e8c-0401ee17ee41.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios](https://user-images.githubusercontent.com/47750982/58269505-585db200-7d4d-11e9-86f4-4b5f453f9569.png)
+
+**GALERIA**
+
+![Galería](https://user-images.githubusercontent.com/47750982/58269569-7a573480-7d4d-11e9-9c2c-7fdaff7ca67e.png)
+
+**TESTIMONIOS**
+
+![Testimonios](https://user-images.githubusercontent.com/47750982/58269658-a70b4c00-7d4d-11e9-8519-e17d427c2df6.jpg)
+
+**CONTACTO**
+
+![Contacto1](https://user-images.githubusercontent.com/47750982/58269708-c013fd00-7d4d-11e9-931b-5101e3eb9a2f.jpg)
+
+![Contacto2](https://user-images.githubusercontent.com/47750982/58269825-f3568c00-7d4d-11e9-899d-cfa1e5ea5bee.jpg)
+
+![Contacto3](https://user-images.githubusercontent.com/47750982/58269863-079a8900-7d4e-11e9-81e9-af57d89747b9.jpg)
+
+![Contacto4](https://user-images.githubusercontent.com/47750982/58269889-17b26880-7d4e-11e9-9af5-ea5f83f03ab9.jpg)
+
 [Prototipo de Alta Fidelidad](https://marvelapp.com/bgh8e07/screen/57012457)
 
 ***
 
 ## **V. User Testing**
 
+Se realizó 5 entrevistas del **Prototipo de Alta Fidelidad** a posibles usuarios de **The Planning Co**, dándoles las siguientes tareas:
+
+* Ingresar a la página Nuestros Servicios
+* Ingresar a la página de Galería
+* Ingresar a la página de Testimonios
+* Contactar a The Planning Co
+* Ingresar a la página de Nosotros
+* Volver a la página principal
+
+Terminada las entrevistas se pudo sacar las siguientes conclusiones, las cuales se tendrán en cuenta para poder realizar el maquetado en HTML.
+
+* Añadir el la lista del menú un botón para regresar a la Pantalla de Inicio.
+* Al costado de cada servicio, colocar un botón que te dirija a la pantalla de Contacto.
+* En la pantalla Contacto considerar 2 opciones: Comunicación directa y Rellenado de Formulario.
+
+[User Testing](https://drive.google.com/open?id=12I_0H2iXbE6H18g-Uh5gPq3a-Bv1HWPJ)
+
 ***
 
 ## **VI. Conclusiones**
 
+**¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?**
 
+**¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final?**
 
 ***
 
