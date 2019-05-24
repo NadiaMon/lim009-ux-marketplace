@@ -459,13 +459,52 @@ Terminada las entrevistas se pudo sacar las siguientes conclusiones, las cuales 
 
 **¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?**
 
+El objetivo principal de aprendizaje del proyecto era entender cómo pasamos de lo que el cliente quería alcanzar a la definición de un producto digital en poco tiempo; para eso realizamos los siguientes pasos:
+
+-	Acordamos que actividades se realizarían para poder conseguir el objetivo final del proyecto.
+
+-	Se acordó una entrevista con el Cliente (The Planning Co), para poder conocer a la empresa con la cual íbamos a trabajar, cuáles eran sus metas y objetivos.
+
+-	Realizamos el benchmarking a empresas del rubro para conocer cuáles son las fortalezas, debilidades y de qué manera ofrecen sus servicios a los usuarios.
+
+-	Tuvimos entrevistas con usuarios de The Planning Co, usuarios de la competencia y con posibles usuarios; así fue que conocimos los puntos que valoran, las necesidades y se pudo construir el perfil general de los usuarios que hacen uso del servicio.
+
+-	A partir de las necesidades que se obtuvo con las entrevistas, se realizó la construcción del Prototipo de baja fidelidad, media fidelidad y alta fidelidad, respectivamente; utilizando las herramientas de: construcción de wireframes y contraste de colores.
+
 **¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final?**
+
+Luego de haber realizado las entrevistas a los usuarios, se identificó 5 problemas; los cuáles fueron resueltos de la siguiente manera, en el producto digital propuesto:
+
+1. Usuarios necesitan investigar el servicio que contratan, por eso recurren a sus redes sociales o a su página web. 
+
+    Se creó una página web amigable, teniendo en cuenta las necesidades de los usuarios, tratando de no perder el contexto con el cual ya viene trabajando el cliente por Facebook.
+
+2. Valoran ver los trabajos previos y leer sobre las experiencias de otros usuarios.
+
+    En la propuesta de página web, se muestran las opciones de Galería y Testimonios.
+
+    En la opción Galería se puede visualizar las fotos del servicio que ofrece The Planning Co en sus 3 rubros: Matrimonios, Eventos Sociales y Eventos corporativos; a la vez puedes elegir un evento en particular y observar cómo fue realizado.
+
+    En la opción de Testimonios, se puede elegir el tipo de testimonio que desear ver; ya sea Matrimonios, Eventos Sociales o Eventos Corporativos. Además, agregamos la calificación que dieron los usuarios al momento de proporcionar comentarios sobre el servicio que recibieron por parte de The Planning Co.
+
+3. Buscan respuestas rápidas y que el trato sea amable.
+
+    Se creó la opción de Contacto, se tuvo en cuenta que sea los más amigable posible y que no sea muy abrumador; el cual era un formulario, dónde podrían dejar varias de las características de su evento a realizarse y enviarlo al cliente para que pueda armar un presupuesto tentativo y crear varias opciones de la temática, para luego poder comunicarse con el usuario; así acortaríamos el tiempo de respuesta por parte del cliente y ya no esperaríamos todavía una reunión presencial para poder saber el presupuesto en sí.
+
+4. Buscan el servicio integral, esto quiere decir que una persona pueda encargarse de muchas cosas.
+
+    Se creó la opción de Nuestros Servicios, dónde se muestra la lista de las componentes que ofrece The Planning Co, al momento de contratar su servicio.
+
+5. Buscan opciones de pago.
+
+    En el formulario que se encuentra dentro de la Opción Contacto, se consideró la Opción de Pago, para que los usuarios decidan de qué manera pagar el servicio, ya sea al contado o en cuotas.
+
 
 ***
 
 ## **VII. Documentación extra**
 
-[Link de video en LOOM]()
+[Link de video en LOOM](https://www.loom.com/share/856973e593c54c6ca1c8cf2c24593807)
 
 [Link carpeta de trabajo en Drive](https://drive.google.com/drive/folders/1nzr4TB5-zIKcnTcLqft7vHeyXYVZrWRA?usp=sharing)
 
