@@ -235,26 +235,21 @@ Una vez obtenido los **Problem Statements** se pasó a realizar los **How Might 
 
 Para poder empezar a construir los **Sketches**, se realizó el Benchmark de las páginas web del rubro de las empresas que se dedican a la Organización de Eventos, las cuales se muestran a continuación:
 
-<center>
 **D ANDRE**
 
 ![D Andre](https://user-images.githubusercontent.com/47750982/58044093-88664480-7b04-11e9-9912-db9dca40bc5a.jpg)
-</center>
-<center>
+
 **BACKYARD**
 
 ![Backyard](https://user-images.githubusercontent.com/47750982/58043957-31f90600-7b04-11e9-9dd7-8366ac43b7ec.jpg)
-</center>
-<center>
+
 **ERIKA FERNANDEZ**
 
 ![Erika Fernandez](https://user-images.githubusercontent.com/47750982/58044183-c8c5c280-7b04-11e9-94dd-c4c8b03be10e.jpg)
-</center>
-<center>
+
 **SILVANA PAZ**
 
 ![Silvana Paz](https://user-images.githubusercontent.com/47750982/58044266-f579da00-7b04-11e9-8bb6-67cdd03ff70c.jpg)
-</center>
 
 [Benchmarking & Referencias](https://drive.google.com/open?id=1JH9e-BA2qoxe_kWMc0mhWI1pwa-d8Tpn)
 
@@ -302,8 +297,6 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 
 ![Inicio-1](https://user-images.githubusercontent.com/47750982/58042600-bf3a5b80-7b00-11e9-9ce9-eab7cc412369.jpg)
 
-![Inicio-2-1](https://user-images.githubusercontent.com/47750982/58042666-e729bf00-7b00-11e9-8603-3ea7dc9f1d0f.jpg)
-
 **NOSOTROS**
 
 ![Nosotros-1](https://user-images.githubusercontent.com/47750982/58042703-fd377f80-7b00-11e9-9bf3-10facdab2a8d.jpg)
@@ -311,8 +304,6 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 **NUESTROS SERVICIOS**
 
 ![Nuestros Servicios-1](https://user-images.githubusercontent.com/47750982/58042760-1dffd500-7b01-11e9-98cb-0885290750db.jpg)
-
-![Nuestros Servicios-2-1](https://user-images.githubusercontent.com/47750982/58042788-3a9c0d00-7b01-11e9-8201-5d55469bb49b.jpg)
 
 **GALERIA**
 
@@ -322,13 +313,9 @@ Se realizó los sketches teniendo en cuenta todo lo recopilado en **Descubrimien
 
 ![Testimonios-1](https://user-images.githubusercontent.com/47750982/58042882-6cad6f00-7b01-11e9-91c4-8a238a368f96.jpg)
 
-![Testimonios-2-1](https://user-images.githubusercontent.com/47750982/58042908-7c2cb800-7b01-11e9-992a-019ae7e0ebd5.jpg)
-
 **CONTACTO**
 
 ![Contacto-1](https://user-images.githubusercontent.com/47750982/58042954-99fa1d00-7b01-11e9-9cf9-267cb5938c0a.jpg)
-
-![Contacto-2-1](https://user-images.githubusercontent.com/47750982/58042974-ad0ced00-7b01-11e9-8edd-5c7c4df3ac51.jpg)
 
 [Sketches](https://drive.google.com/open?id=1FiIxe95MT1AkO0ylSwkBdG1_sPZ2GlMJ)
 
@@ -413,23 +400,111 @@ Se realizó 5 testeos del **Prototipo de Media Fidelidad**, 3 posibles usuarias 
 
 Luego de plantear e iterar los prototipos de baja y media fidelidad, definimos nuestro prototipo de alta. Al elaborarlo decidimos qué colores usar, las tipografías, iconos y otros elementos visuales que mantendrían la identidad de The Planning Co. y fortalecerían su imagen frente al público.
 
+**INICIO**
+
+![Inicio (1)](https://user-images.githubusercontent.com/47750982/58269392-12085300-7d4d-11e9-88e1-cadd0ef5fdf1.jpg)
+
+**NOSOTROS**
+
+![Nosotros](https://user-images.githubusercontent.com/47750982/58269469-424ff180-7d4d-11e9-9e8c-0401ee17ee41.jpg)
+
+**NUESTROS SERVICIOS**
+
+![Nuestros Servicios](https://user-images.githubusercontent.com/47750982/58269505-585db200-7d4d-11e9-86f4-4b5f453f9569.png)
+
+**GALERIA**
+
+![Galería](https://user-images.githubusercontent.com/47750982/58269569-7a573480-7d4d-11e9-9c2c-7fdaff7ca67e.png)
+
+**TESTIMONIOS**
+
+![Testimonios](https://user-images.githubusercontent.com/47750982/58269658-a70b4c00-7d4d-11e9-8519-e17d427c2df6.jpg)
+
+**CONTACTO**
+
+![Contacto1](https://user-images.githubusercontent.com/47750982/58269708-c013fd00-7d4d-11e9-931b-5101e3eb9a2f.jpg)
+
+![Contacto2](https://user-images.githubusercontent.com/47750982/58269825-f3568c00-7d4d-11e9-899d-cfa1e5ea5bee.jpg)
+
+![Contacto3](https://user-images.githubusercontent.com/47750982/58269863-079a8900-7d4e-11e9-81e9-af57d89747b9.jpg)
+
+![Contacto4](https://user-images.githubusercontent.com/47750982/58269889-17b26880-7d4e-11e9-9af5-ea5f83f03ab9.jpg)
+
 [Prototipo de Alta Fidelidad](https://marvelapp.com/bgh8e07/screen/57012457)
 
 ***
 
 ## **V. User Testing**
 
+Se realizó 5 entrevistas del **Prototipo de Alta Fidelidad** a posibles usuarios de **The Planning Co**, dándoles las siguientes tareas:
+
+* Ingresar a la página Nuestros Servicios
+* Ingresar a la página de Galería
+* Ingresar a la página de Testimonios
+* Contactar a The Planning Co
+* Ingresar a la página de Nosotros
+* Volver a la página principal
+
+Terminada las entrevistas se pudo sacar las siguientes conclusiones, las cuales se tendrán en cuenta para poder realizar el maquetado en HTML.
+
+* Añadir el la lista del menú un botón para regresar a la Pantalla de Inicio.
+* Al costado de cada servicio, colocar un botón que te dirija a la pantalla de Contacto.
+* En la pantalla Contacto considerar 2 opciones: Comunicación directa y Rellenado de Formulario.
+
+[User Testing](https://drive.google.com/open?id=12I_0H2iXbE6H18g-Uh5gPq3a-Bv1HWPJ)
+
 ***
 
 ## **VI. Conclusiones**
 
+**¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?**
+
+El objetivo principal de aprendizaje del proyecto era entender cómo pasamos de lo que el cliente quería alcanzar a la definición de un producto digital en poco tiempo; para eso realizamos los siguientes pasos:
+
+-	Acordamos que actividades se realizarían para poder conseguir el objetivo final del proyecto.
+
+-	Se acordó una entrevista con el Cliente (The Planning Co), para poder conocer a la empresa con la cual íbamos a trabajar, cuáles eran sus metas y objetivos.
+
+-	Realizamos el benchmarking a empresas del rubro para conocer cuáles son las fortalezas, debilidades y de qué manera ofrecen sus servicios a los usuarios.
+
+-	Tuvimos entrevistas con usuarios de The Planning Co, usuarios de la competencia y con posibles usuarios; así fue que conocimos los puntos que valoran, las necesidades y se pudo construir el perfil general de los usuarios que hacen uso del servicio.
+
+-	A partir de las necesidades que se obtuvo con las entrevistas, se realizó la construcción del Prototipo de baja fidelidad, media fidelidad y alta fidelidad, respectivamente; utilizando las herramientas de: construcción de wireframes y contraste de colores.
+
+**¿Cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final?**
+
+Luego de haber realizado las entrevistas a los usuarios, se identificó 5 problemas; los cuáles fueron resueltos de la siguiente manera, en el producto digital propuesto:
+
+1. Usuarios necesitan investigar el servicio que contratan, por eso recurren a sus redes sociales o a su página web. 
+
+    Se creó una página web amigable, teniendo en cuenta las necesidades de los usuarios, tratando de no perder el contexto con el cual ya viene trabajando el cliente por Facebook.
+
+2. Valoran ver los trabajos previos y leer sobre las experiencias de otros usuarios.
+
+    En la propuesta de página web, se muestran las opciones de Galería y Testimonios.
+
+    En la opción Galería se puede visualizar las fotos del servicio que ofrece The Planning Co en sus 3 rubros: Matrimonios, Eventos Sociales y Eventos corporativos; a la vez puedes elegir un evento en particular y observar cómo fue realizado.
+
+    En la opción de Testimonios, se puede elegir el tipo de testimonio que desear ver; ya sea Matrimonios, Eventos Sociales o Eventos Corporativos. Además, agregamos la calificación que dieron los usuarios al momento de proporcionar comentarios sobre el servicio que recibieron por parte de The Planning Co.
+
+3. Buscan respuestas rápidas y que el trato sea amable.
+
+    Se creó la opción de Contacto, se tuvo en cuenta que sea los más amigable posible y que no sea muy abrumador; el cual era un formulario, dónde podrían dejar varias de las características de su evento a realizarse y enviarlo al cliente para que pueda armar un presupuesto tentativo y crear varias opciones de la temática, para luego poder comunicarse con el usuario; así acortaríamos el tiempo de respuesta por parte del cliente y ya no esperaríamos todavía una reunión presencial para poder saber el presupuesto en sí.
+
+4. Buscan el servicio integral, esto quiere decir que una persona pueda encargarse de muchas cosas.
+
+    Se creó la opción de Nuestros Servicios, dónde se muestra la lista de las componentes que ofrece The Planning Co, al momento de contratar su servicio.
+
+5. Buscan opciones de pago.
+
+    En el formulario que se encuentra dentro de la Opción Contacto, se consideró la Opción de Pago, para que los usuarios decidan de qué manera pagar el servicio, ya sea al contado o en cuotas.
 
 
 ***
 
 ## **VII. Documentación extra**
 
-[Link de video en LOOM]()
+[Link de video en LOOM](https://www.loom.com/share/856973e593c54c6ca1c8cf2c24593807)
 
 [Link carpeta de trabajo en Drive](https://drive.google.com/drive/folders/1nzr4TB5-zIKcnTcLqft7vHeyXYVZrWRA?usp=sharing)
 
